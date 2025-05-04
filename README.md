@@ -1,3 +1,4 @@
+<h>Data: Allstate Claims Historical Records</h>
 I tried to go very in-depth with understanding Linear Regression and Random Forest for this work. 
 I kept the motto to understand different parameters/ hyperparameters used by the models. Focus is not on earning a high score here. 
 Keeping this objective in mind, I avoided using XGBoost or LightGBM.
